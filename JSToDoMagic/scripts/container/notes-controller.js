@@ -11,13 +11,6 @@ function init() {
   disabletbn();
 }
 
-
-const enablebtn=()=>document.querySelector('#delete').disabled = false;
-const disabletbn=()=>document.querySelector('#delete').disabled = true;
-
-const enablebtnupdt=()=>document.querySelector('#update').disabled = false;
-const disablebtnupdt=()=>document.querySelector('#update').disabled = true;
-
   // const ids = ['delete', 'update'];
   // const enablebtn = () => ids.forEach(id => document.getElementById(id).disabled = false);
   // const dicabletbn = () => ids.forEach(id => document.getElementById(id).disabled = true);
