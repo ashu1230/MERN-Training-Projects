@@ -1,0 +1,11 @@
+.hand{
+  cursor: pointer;
+}
+
+.hand:hover{
+  color: rgb(255, 0, 0);
+}
+
+.dcolor li :hover{
+  background-color: LightBlue	;
+}
